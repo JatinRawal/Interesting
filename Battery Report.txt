@@ -1,0 +1,12 @@
+Select Search on the taskbar, type Command prompt, press and hold (or right-click) Command prompt, and then select Run as administrator > Yes.
+
+At the command prompt, type powercfg /batteryreport, then press Enter.
+
+The battery report will be an HTML file that’s stored in a folder on your PC. The file location will be shown in the Command Prompt window.
+
+Open File Explorer, go to the folder that the report was saved to, and then double-click the battery report (HTML file) to open it in your web browser.
+
+You can get a lot of detailed info about your battery usage and capacity. Some particular sections you might want to look at to get started include the following: Installed battery, Recent usage, and Battery usage.
+
+
+**This information is from official Microsoft Website 
